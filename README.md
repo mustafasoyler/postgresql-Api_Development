@@ -10,3 +10,5 @@
 ##### --Daha sonra projemiz ile intellij idea üzerinden database bağlantı kuruyoruz ve application.properties dosyası içinde yazmış olduğumuz özellikleri kullanıyoruz.
 
 ![postgre](https://user-images.githubusercontent.com/52690917/118545772-b74d3a80-b75f-11eb-8925-eb4661ead40d.png)
+
+##### -- Projemizi çalıştırıyoruz.Doğru bir şekilde çalıştığına emin olduktan sonra postman ile kontrol işlemi yapıyoruz.
